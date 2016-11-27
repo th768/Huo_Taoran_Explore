@@ -1,3 +1,8 @@
+#Comments: Overall, you are on the right track and you understand to break a large function like this into several functions and
+# achieve the final goals. But there is some variables are not well defined. Like the variable "num" are not well defined so 
+# lead to error message. This happens a lot especially in large function like this.
+
+
 library(ggplot2)
 library(grid)
 library(cowplot)
